@@ -46,10 +46,3 @@ print(a,b,c)
 a = 1
 b = a*2
 print(a,b)
-
-
-#while循环
-condition =1
-while condition < 10:
-    print(condition)
-    condition = condition + 1
